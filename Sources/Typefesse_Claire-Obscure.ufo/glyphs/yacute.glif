@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="yacute" format="1">
+  <advance width="793"/>
+  <unicode hex="00FD"/>
+  <outline>
+    <contour>
+      <point x="526" y="876" type="line" name="hr00"/>
+      <point x="536" y="831" type="line"/>
+      <point x="260" y="767" type="line"/>
+      <point x="250" y="814" type="line"/>
+    </contour>
+    <contour>
+      <point x="227" y="829" type="line"/>
+      <point x="246" y="741" type="line"/>
+      <point x="558" y="814" type="line"/>
+      <point x="539" y="901" type="line"/>
+    </contour>
+    <component base="y"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019-10-21 14:02:41 +0000</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>y</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>y</string>
+    </dict>
+  </lib>
+</glyph>

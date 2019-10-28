@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Eacute" format="1">
+  <advance width="677"/>
+  <unicode hex="00C9"/>
+  <outline>
+    <contour>
+      <point x="454" y="872" type="line" name="hr00"/>
+      <point x="464" y="827" type="line"/>
+      <point x="188" y="763" type="line"/>
+      <point x="178" y="810" type="line"/>
+    </contour>
+    <contour>
+      <point x="155" y="825" type="line"/>
+      <point x="174" y="737" type="line"/>
+      <point x="486" y="810" type="line"/>
+      <point x="467" y="897" type="line"/>
+    </contour>
+    <component base="E"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019-10-21 13:41:37 +0000</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>E</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>E</string>
+    </dict>
+  </lib>
+</glyph>

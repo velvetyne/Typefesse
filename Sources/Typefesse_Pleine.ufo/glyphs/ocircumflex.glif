@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ocircumflex" format="1">
+  <advance width="818"/>
+  <unicode hex="00F4"/>
+  <outline>
+    <contour>
+      <point x="381" y="863" type="line"/>
+      <point x="214" y="772" type="line"/>
+      <point x="190" y="815" type="line"/>
+      <point x="383" y="920" type="line"/>
+      <point x="573" y="816" type="line"/>
+      <point x="550" y="772" type="line"/>
+    </contour>
+    <component base="o"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019-10-21 14:48:25 +0000</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="asterisk" format="1">
+  <advance width="394"/>
+  <unicode hex="002A"/>
+  <outline>
+    <contour>
+      <point x="172" y="463" type="line"/>
+      <point x="172" y="543" type="line"/>
+      <point x="115" y="486" type="line"/>
+      <point x="84" y="517" type="line"/>
+      <point x="143" y="576" type="line"/>
+      <point x="60" y="576" type="line"/>
+      <point x="60" y="620" type="line"/>
+      <point x="141" y="620" type="line"/>
+      <point x="85" y="676" type="line"/>
+      <point x="116" y="707" type="line"/>
+      <point x="172" y="651" type="line"/>
+      <point x="172" y="730" type="line"/>
+      <point x="216" y="730" type="line"/>
+      <point x="216" y="649" type="line"/>
+      <point x="273" y="706" type="line"/>
+      <point x="304" y="674" type="line"/>
+      <point x="249" y="620" type="line"/>
+      <point x="327" y="620" type="line"/>
+      <point x="327" y="576" type="line"/>
+      <point x="247" y="576" type="line"/>
+      <point x="305" y="518" type="line"/>
+      <point x="274" y="487" type="line"/>
+      <point x="216" y="545" type="line"/>
+      <point x="216" y="463" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019-10-21 14:55:36 +0000</string>
+    </dict>
+  </lib>
+</glyph>

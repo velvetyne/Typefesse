@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Ccedilla" format="1">
+  <advance width="635"/>
+  <unicode hex="00C7"/>
+  <outline>
+    <contour>
+      <point x="281" y="-101" type="curve" smooth="yes"/>
+      <point x="281" y="-127"/>
+      <point x="263" y="-148"/>
+      <point x="241" y="-159" type="curve"/>
+      <point x="253" y="-185" type="line"/>
+      <point x="291" y="-171"/>
+      <point x="319" y="-135"/>
+      <point x="319" y="-94" type="curve" smooth="yes"/>
+      <point x="319" y="-49"/>
+      <point x="286" y="-22"/>
+      <point x="265" y="-18" type="curve"/>
+      <point x="248" y="-47" type="line"/>
+      <point x="263" y="-55"/>
+      <point x="281" y="-72"/>
+    </contour>
+    <component base="C"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019-10-21 14:49:35 +0000</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>C</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>C</string>
+    </dict>
+  </lib>
+</glyph>

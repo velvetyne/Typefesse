@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ascender</key>
+	<integer>800</integer>
+	<key>capHeight</key>
+	<integer>0</integer>
+	<key>copyright</key>
+	<string>Copyright © 2019, Océane Juvin &lt;oceane-j@laposte.net&gt;, Velvetyne Type Foundry</string>
+	<key>descender</key>
+	<integer>-200</integer>
+	<key>familyName</key>
+	<string>Typefesse</string>
+	<key>openTypeHeadCreated</key>
+	<string>2019/10/27 11:26:49</string>
+	<key>openTypeNameDesigner</key>
+	<string>Océane Juvin</string>
+	<key>openTypeNameDesignerURL</key>
+	<string>https://www.behance.net/oceane-jd737</string>
+	<key>openTypeNameManufacturer</key>
+	<string>Velvetyne Type Foundry</string>
+	<key>openTypeNameManufacturerURL</key>
+	<string>https://www.velvetyne.fr/</string>
+	<key>openTypeNamePreferredFamilyName</key>
+	<string>Typefesse</string>
+	<key>openTypeNamePreferredSubfamilyName</key>
+	<string>Claire-Obscure</string>
+	<key>openTypeOS2WeightClass</key>
+	<integer>400</integer>
+	<key>openTypeOS2WidthClass</key>
+	<integer>5</integer>
+	<key>postscriptBlueValues</key>
+	<array>
+	</array>
+	<key>postscriptFontName</key>
+	<string>Typefesse-Claire-Obscure</string>
+	<key>postscriptOtherBlues</key>
+	<array>
+	</array>
+	<key>styleMapFamilyName</key>
+	<string>Typefesse Claire-Obscure</string>
+	<key>styleMapStyleName</key>
+	<string>regular</string>
+	<key>styleName</key>
+	<string>Claire-Obscure</string>
+	<key>unitsPerEm</key>
+	<integer>1000</integer>
+	<key>versionMajor</key>
+	<integer>1</integer>
+	<key>versionMinor</key>
+	<integer>0</integer>
+	<key>xHeight</key>
+	<integer>0</integer>
+</dict>
+</plist>

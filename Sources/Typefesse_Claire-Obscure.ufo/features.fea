@@ -1,0 +1,10 @@
+feature liga {
+sub t t by t_t ;
+sub p p by p_p ;
+sub l l by L_L ;
+sub L L by L_L ;
+sub V T F by VTF ;
+sub v t f by VTF ;
+sub less three by heart ;
+} liga;
+

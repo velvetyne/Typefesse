@@ -1,0 +1,22 @@
+---
+unified font repository version: "0.1"
+unified font repository url: https://github.com/raphaelbastide/Unified-Font-Repository/
+typeface family:
+  name: Typefesse
+  tags:
+  - ludique
+  - 70s
+  - fantasy
+  - titling
+  - butt
+  - illustrative
+  repository url: https://github.com/ohpla/typefesse.git
+  project url: https://velvetyne.fr/fonts/typefesse/
+  tools:
+  - Illustrator
+  - Fontlab
+  - Glyphs
+  similar fonts:
+  sample text:
+  - en_us: The quick brown fox jumps over the lazy dog
+...
